@@ -3,4 +3,6 @@
 
  Repositorio criado durante uma aula do curso em video!
 
-Essa linha eu adicionada diretamente no site 
+Essa linha foi adicionada diretamente do site 
+
+
